@@ -8,7 +8,6 @@ import threading
 import json
 from time import sleep
 import unicodedata
-from pip.cmdoptions import editable
 try:
     import tkinter.ttk as ttk
 except ImportError:
